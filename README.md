@@ -5,7 +5,7 @@
 <a href="#"><img title="Bot WhatsApp 2022" src="https://img.shields.io/badge/bot-whatsapp-lightgrey?colorA=%23ff0000&colorB=%#7E7D7D&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://api.whatsapp.com/send/?phone=%2B6289670080712&text&app_absent=0"><img title="Author" src="https://img.shields.io/badge/Author-R%20Hndrr-brightgreen.svg?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B6289670080712&text&app_absent=0"><img title="Author" src="https://img.shields.io/badge/Author-Hr999x-brightgreen.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ItsmeHndrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/ItsmeHndrr?color=blue&style=flat-square"></a>
