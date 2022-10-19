@@ -1,82 +1,61 @@
-### 乂  Description
-
-An automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.
-
 <p align="center">
-<img width="" src="https://img.shields.io/github/repo-size/neoxr/neoxr-bot?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
+<img src="https://i.ibb.co/8gyLVKJ/03d19d67-77b1-4208-abdb-bd295692bbe9.jpg" alt="png" width="128" height="128"/>
 </p>
+<p align="center">
+<a href="#"><img title="Bot WhatsApp 2022" src="https://img.shields.io/badge/SELF BOT-lightgrey?colorA=%23ff0000&colorB=%#7E7D7D&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://api.whatsapp.com/send/?phone=%2B6289670080712&text&app_absent=0"><img title="Author" src="https://img.shields.io/badge/Author-R%20Hndrr-brightgreen.svg?style=for-the-badge&logo=whatsapp"></a>
+</p>
+<p align="center">
+<a href="https://github.com/ItsmeHndrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/ItsmeHndrr?color=blue&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/selepbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ItsmeHbdrr/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/selepbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itsmeHndrr/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/selepbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ItsmeHndrr/selepbot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+  </p>
+  
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
-> **NEW!** Implementation of my other project namely Github Database **[@neoxr/gitdb](https://github.com/neoxr/gitdb)** to see **[Click Here](https://github.com/neoxr/neoxr-bot/tree/gitdb)**
 
-### 乂  Database Setup
+Bot ini tidak di enc ^_^ disilakan di pake
 
-This script can use 2 types of database types NoSQL and SQL, for NoSQL types using MongoDB and SQL using PostgreSQL. 
+### note : Cheerio install was successful
 
-You can get free MongoDB database service at MongoDB Atlas while you can get PostgreSQL on Heroku and Railway.
+### Installasi In TERMUX
 
-#### 1. Heroku
-
-If you want to get from heroku, register first and do this steps :
-
-- Go to **add-ons** page
-- Search **Heroku Posgress**
-- Choose **Hobby Dev** and **ADD**
-- Go to **Setting**
-- Click **Config Variables**
-- Then copy **DATABASE_URL** value
-- Paste on **.env** file
-- Done!
-
-**Example :**
-```.env
-DATABASE_URL = 'postgres://nmxbabrmewzxmy:d9651df4c26df9d9fdc447be36cf32349ffc3acad641dd3fb72b2bd682ace017@ec2-63-34-180-86.eu-west-1.compute.amazonaws.com:5432/d9atreqoeau273g'
+```bash
+> apt update && apt upgrade -y
+> pkg install git -y
+> pkg install bash -y
+> git clone https://github.com/ItsmeHndrr/bot-whatsapp.git
+> cd selepbot
+> bash install.sh
+> npm start
 ```
 
-#### 2. Railway
+### Installasi In RDP/LAPTOP
 
-Just like heroku must register first and do this steps :
-
-- Create **New Project**
-- Search **Provision PostgreSQL**
-- Click **PostgreSQL** on your project
-- Click **Variables**
-- Click **Copy all**
-- Paste on **.env** file
-- Done!
-
-**Example :**
-```.env
-DATABASE_URL = 'postgresql://postgres:mWdv7uNGHddW183m@containers-us-west-71.railway.app:6917/railway'
+```bash
+> npm i
+> npm i cheerio
+> npm start
+> scan qr done✅
 ```
 
-#### 3. MongoDB Atlas
 
-Sorry, I can't write the tutorial here because it's a bit complicated so you can watch this **[Video](https://m.youtube.com/watch?v=4-fRVd1yzr0)**
+### presented by hr999x
 
-**Example :**
-```.env
-DATABASE_URL = 'mongodb+srv://neoxrbot:yntkts@cluster0.kontol.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
-```
 
-### 乂  Installation
+* [`WhatsApp Admin `](https://wa.me/6289670080713)
 
-```
-$ git clone https://github.com/neoxr/neoxr-bot
-```
+* [`Facebook `](https://facebook.com/Hr999x)
 
-And then type this on your console.
-```
-$ npm i
-$ node . <session_name>
-```
+* [`Instagram `](hhtps://instagram.com/hr999x)
 
-**NOTE :** 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"> Special Thanks To
 
-1. Use node version **14.x** to avoid errors.
-2. If you find an error you can create an issue on this repo, don't ask me on whatsapp it's very annoying.
-3. This script is free and semi open source, you can get more apikey limit in **[Here](https://api.neoxr.my.id)**.
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/MhankBarBar/termux-wabot"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/MrG3P5"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{neoxr}/count.svg" alt="neoxr :: Visitor's Count" /></p>
-
-### 乂  License
-Copyright (c) 2022 Neoxr . Licensed under the [GNU GPLv3](https://github.com/neoxr/neoxr-bot/blob/master/LICENSE)
